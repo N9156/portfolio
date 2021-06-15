@@ -1,0 +1,11 @@
+.table{
+    height: 400px;
+    overflow-y: auto;
+    display: block;
+}
+
+
+body{
+  color: #c23c3c;
+}
+
